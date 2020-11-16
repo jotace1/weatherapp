@@ -22,7 +22,7 @@
     <a href="https://openweathermap.org/api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jotace1/weatherapp">View Demo</a>
+    <a href="https://react-weatherapp-jc.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/jotace1/weatherapp/issues">Report Bug</a>
     ·
