@@ -1,46 +1,166 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/jotace1/weatherapp">
+    <img src="src/assets/screenshots/shoot1.png" alt="Logo"  height="300">
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <h3 align="center">Weather App</h3>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <p align="center">
+    Aplicação feita utilizando a OpenWeatherAPI
+    <br />
+    <a href="https://openweathermap.org/api"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/jotace1/weatherapp">View Demo</a>
+    ·
+    <a href="https://github.com/jotace1/weatherapp/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/jotace1/weatherapp/issues">Request Feature</a>
+  </p>
+</p>
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+<!-- TABLE OF CONTENTS -->
+## 📎 Table of Contents
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+<!-- ABOUT THE PROJECT -->
+## :mag_right: About The Project
+<p align="center">
+<img src="src/assets/screenshots/shoot1.png" alt="Logo" width="350" height="250">
+<img src="src/assets/screenshots/shoot2.png" alt="Logo" width="350" height="250">
+<img src="src/assets/screenshots/shoot3.png" alt="Logo" width="350" height="250">
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<p align="center">
+  <strong>You can use the application online <a href="https://react-weatherapp-jc.netlify.app"/>HERE</a></strong>
+</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### 💻 Built With
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* [ReactJS](https://pt-br.reactjs.org/)
+* [Typescript](https://www.typescriptlang.org/)
+* [OpenWeather API](https://openweathermap.org/api)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### ⚙ Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm or yarn
+```sh
+npm install npm@latest -g
+```
+or
+```sh
+yarn
+```
+
+### 📙 Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/jotace1/weatherapp.git
+```
+2. Install packages
+```sh
+npm install
+```
+or
+```sh
+yarn
+```
+3. Run the app
+```sh
+yarn start
+```
+
+
+<!-- USAGE EXAMPLES -->
+## 🚀 Usage
+After running the app, you can search for any city u want.
+
+Have fun
+
+
+## Roadmap
+
+See the [open issues](https://github.com/jotace1/weatherapp/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## 📙 Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## 📝 License
+
+Distributed under the MIT License. See `MIT` for more information.
+
+
+
+<!-- CONTACT -->
+## :calling: Contact
+
+João Carlos de Souza Castro - [Linkedin](https://www.linkedin.com/in/joaocsc/) - joaocsc01@hotmail.com
+
+Project Link: [https://github.com/jotace1/weatherapp](https://github.com/jotace1/weatherapp)
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/jotace1/weatherapp.svg?style=flat-square
+[contributors-url]: https://github.com/jotace1/weatherapp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jotace1/weatherapp.svg?style=flat-square
+[forks-url]: https://github.com/jotace1/weatherapp/network/members
+[stars-shield]: https://img.shields.io/github/stars/jotace1/weatherapp.svg?style=flat-square
+[stars-url]: https://github.com/jotace1/weatherapp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jotace1/weatherapp.svg?style=flat-square
+[issues-url]: https://github.com/jotace1/weatherapp/issues
+[license-shield]: https://img.shields.io/github/license/jotace1/weatherapp.svg?style=flat-square
+[license-url]: https://github.com/jotace1/weatherapp/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/joaocsc/
+
